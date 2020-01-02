@@ -1,24 +1,49 @@
-# @acfromspace/weeb
+<!-- HEADING -->
 
-[![npm (scoped)](https://img.shields.io/npm/v/@acfromspace/weeb.svg)](https://github.com/acfromspace/weeb)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@acfromspace/weeb.svg)](https://github.com/acfromspace/weeb)
-[![Project Status: Suspended – Initial development has started, but there has not yet been a stable, usable release; work has been stopped for the time being but the author(s) intend on resuming work.](https://www.repostatus.org/badges/latest/suspended.svg)](https://www.repostatus.org/#suspended)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10361542/71635438-7e97da00-2bd9-11ea-9940-8a42bd798a00.png" width="60">
+</p>
+<h1 align="center">️@acfromspace/weeb</h1>
 
-Changes the given string to their cringey Japanese counterpart.
+<!-- DESCRIPTION -->
 
-Future developments include more phrases and gestures!
+<h3 align="center">
+  <span role="img" aria-label="Ogre">👹</span>
+</h3>
+<p align="center">
+  <strong>Library that converts strings to their cringey Japanese counterpart.</strong><br>
+  Created with <a href="https://www.npmjs.com/" target="_blank">NPM<a/>.
+</p>
 
-## Install
+<!-- BADGES -->
+
+<p align="center">
+    <a href="https://github.com/acfromspace/weeb/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/mashape/apistatus.svg"
+            alt="License: MIT"></a>
+    <a href="https://www.repostatus.org/#unsupported">
+        <img src="https://www.repostatus.org/badges/latest/unsupported.svg" alt="Project Status: Unsupported – The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired." /></a>
+    <a href="https://github.com/acfromspace/weeb">
+        <img src="https://img.shields.io/npm/v/@acfromspace/weeb.svg"
+            alt="npm (scoped)"></a>
+    <a href="https://github.com/acfromspace/weeb">
+        <img src="https://img.shields.io/bundlephobia/min/@acfromspace/weeb.svg"
+            alt="npm bundle size (minified)"></a>
+</p>
+
+<!-- QUICK INSTALLATION -->
+
+## <span role="img" aria-label="Sparkles">✨</span> Quick Installation
 
 ```
-npm i @acfromspace/weeb
-
+npm install @acfromspace/weeb
 OR
-
 yarn add @acfromspace/weeb
 ```
 
-## Usage
+<!-- CONTROLS -->
+
+## <span role="img" aria-label="Video Game">🎮</span> Controls
 
 ```js
 const weeb = require("@acfromspace/weeb");
@@ -30,9 +55,8 @@ weeb(420);
 //=> Uncaught TypeError: これは文字列ではありません!
 ```
 
-## Index
+<!-- LICENSE -->
 
-Showcasing the specific changes to a string given.
+## <span role="img" aria-label="Oncoming Police Car">🚔</span> [License](LICENSE)
 
-- `what` => `NANI`
-- More to come...
+The code in this project is under a specific open source license.
