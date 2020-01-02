@@ -31,6 +31,16 @@
             alt="npm bundle size (minified)"></a>
 </p>
 
+<!-- FEATURES -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10361542/71694411-fbef5600-2d63-11ea-83fe-3a9468c27682.jpg">
+</p>
+
+[_@acfromspace/weeb_](https://www.npmjs.com/package/@acfromspace/weeb) is a library with the following features:
+
+- **Conversion.** I'm not very proud of this, but it does make me laugh from time to time.
+
 <!-- QUICK INSTALLATION -->
 
 ## <span role="img" aria-label="Sparkles">✨</span> Quick Installation
